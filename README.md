@@ -5,7 +5,7 @@
 
 **This repository contains the official supporting materials for our submission to the [OpenAI GPT-OSS-20B Red Teaming Competition on Kaggle](https://www.kaggle.com/competitions/openai-gpt-oss-20b-red-teaming).**
 
-**Our final Writeup can be found here: [Link to Your Final Kaggle Writeup Here]**
+# **Our final Writeup can be found here: [Link to Your Final Kaggle Writeup Here]**
 
 ---
 
